@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\J1\\Desktop\\MASTER\\IPLA\\SEM5\\WordDocument1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8759DB3D-B0AC-5D89-1C07-62D47C4017A3}|WordDocument1\\WordDocument1.csproj|c:\\users\\j1\\desktop\\master\\ipla\\sem5\\worddocument1\\worddocument1\\usercontrol1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8759DB3D-B0AC-5D89-1C07-62D47C4017A3}|WordDocument1\\WordDocument1.csproj|solutionrelative:worddocument1\\usercontrol1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8759DB3D-B0AC-5D89-1C07-62D47C4017A3}|WordDocument1\\WordDocument1.csproj|c:\\users\\j1\\desktop\\master\\ipla\\sem5\\worddocument1\\worddocument1\\usercontrol1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{8759DB3D-B0AC-5D89-1C07-62D47C4017A3}|WordDocument1\\WordDocument1.csproj|solutionrelative:worddocument1\\usercontrol1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8759DB3D-B0AC-5D89-1C07-62D47C4017A3}|WordDocument1\\WordDocument1.csproj|c:\\users\\j1\\desktop\\master\\ipla\\sem5\\worddocument1\\worddocument1\\thisdocument.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8759DB3D-B0AC-5D89-1C07-62D47C4017A3}|WordDocument1\\WordDocument1.csproj|solutionrelative:worddocument1\\thisdocument.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8759DB3D-B0AC-5D89-1C07-62D47C4017A3}|WordDocument1\\WordDocument1.csproj|c:\\users\\j1\\desktop\\master\\ipla\\sem5\\worddocument1\\worddocument1\\worddocument1.docx||{6E9EABA0-FDEE-4A1C-8758-E1DCA032A5D3}",
+      "RelativeMoniker": "D:0:0:{8759DB3D-B0AC-5D89-1C07-62D47C4017A3}|WordDocument1\\WordDocument1.csproj|solutionrelative:worddocument1\\worddocument1.docx||{6E9EABA0-FDEE-4A1C-8758-E1DCA032A5D3}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ThisDocument.cs",
+              "DocumentMoniker": "C:\\Users\\J1\\Desktop\\MASTER\\IPLA\\SEM5\\WordDocument1\\WordDocument1\\ThisDocument.cs",
+              "RelativeDocumentMoniker": "WordDocument1\\ThisDocument.cs",
+              "ToolTip": "C:\\Users\\J1\\Desktop\\MASTER\\IPLA\\SEM5\\WordDocument1\\WordDocument1\\ThisDocument.cs",
+              "RelativeToolTip": "WordDocument1\\ThisDocument.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAAABsAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T18:23:15.525Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserControl1.cs",
+              "DocumentMoniker": "C:\\Users\\J1\\Desktop\\MASTER\\IPLA\\SEM5\\WordDocument1\\WordDocument1\\UserControl1.cs",
+              "RelativeDocumentMoniker": "WordDocument1\\UserControl1.cs",
+              "ToolTip": "C:\\Users\\J1\\Desktop\\MASTER\\IPLA\\SEM5\\WordDocument1\\WordDocument1\\UserControl1.cs",
+              "RelativeToolTip": "WordDocument1\\UserControl1.cs",
+              "ViewState": "AgIAAGgAAAAAAAAAAAAWwIgAAABGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T17:43:57.918Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserControl1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\J1\\Desktop\\MASTER\\IPLA\\SEM5\\WordDocument1\\WordDocument1\\UserControl1.cs",
+              "RelativeDocumentMoniker": "WordDocument1\\UserControl1.cs",
+              "ToolTip": "C:\\Users\\J1\\Desktop\\MASTER\\IPLA\\SEM5\\WordDocument1\\WordDocument1\\UserControl1.cs [Design]",
+              "RelativeToolTip": "WordDocument1\\UserControl1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T17:35:08.481Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "WordDocument1.docx",
+              "DocumentMoniker": "C:\\Users\\J1\\Desktop\\MASTER\\IPLA\\SEM5\\WordDocument1\\WordDocument1\\WordDocument1.docx",
+              "RelativeDocumentMoniker": "WordDocument1\\WordDocument1.docx",
+              "ToolTip": "C:\\Users\\J1\\Desktop\\MASTER\\IPLA\\SEM5\\WordDocument1\\WordDocument1\\WordDocument1.docx",
+              "RelativeToolTip": "WordDocument1\\WordDocument1.docx",
+              "ViewState": "m0x19PVkQEuK9GeXMqwGBwMAAABkAAAAAAAAAAAAAAA=",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.002149|",
+              "WhenOpened": "2026-03-19T17:30:02.758Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
